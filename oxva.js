@@ -1148,11 +1148,11 @@ OXVA - DEATH ʜᴀs ᴀʀʀɪᴠᴇᴅ. ᴇᴠᴇʀʏᴏɴᴇ, ᴋɴᴇᴇʟ ʙ�
 bot.command("pullupdate", async (ctx) => doUpdate(ctx));
 
 const UPDATE_URL =
-  "https://raw.githubusercontent.com/Unbandfoul/scary_autoupdate/refs/heads/main/scary.js"; 
+  "https://raw.githubusercontent.com/boysrpdzz-rgb/oxva.js/refs/heads/main/oxva.js"; 
 
 const thumbnailUp = "https://files.catbox.moe/vy58o4.jpg"; // gausah ganti ini ga berfungsi tapi semua code tetap jalan semua
 
-const UPDATE_FILE_PATH = "./scary.js"; 
+const UPDATE_FILE_PATH = "./oxva.js"; 
 
 function downloadToFile(url, filePath) {
   return new Promise((resolve, reject) => {
@@ -1180,7 +1180,7 @@ async function doUpdate(ctx) {
 
   await ctx.reply(
 `<pre>╭━━〔 ✨ 𝗔 𝗨 𝗧 𝗢 --- 𝗨 𝗣 𝗗 𝗔 𝗧 𝗘 ✨ 〕━━⬣
-┃ ⨳ Status : 🔎 Intsall File scary.js Terbaru....
+┃ ⨳ Status : 🔎 Intsall File oxva.js Terbaru....
 ┃ ⨳ Source : GitHub Repository File
 ┃ ⨳ Process : Downloading File 
 ╰━━━━━━━━━━━━━━━━⬣
@@ -1198,7 +1198,7 @@ async function doUpdate(ctx) {
     await ctx.reply(
 `<pre>╭━━〔 ✨  𝗨 𝗣 𝗗 𝗔 𝗧 𝗘 --- 𝗦 𝗨 𝗖 𝗖 𝗘 𝗦 𝗦 ✨ 〕━━⬣
 ┃ ⨳ Status : ✅ Completed Download New File
-┃ ⨳ File   : scary.js
+┃ ⨳ File   : oxva.js
 ┃ ⨳ Source : GitHub Repository File
 ╰━━━━━━━━━━━━━━━━⬣
 
