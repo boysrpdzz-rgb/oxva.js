@@ -669,7 +669,7 @@ function startBot() {
   console.log(
     chalk.bold.green(`
 ───────────────────────────    
-OXVA ♫ DEATH IS HERE
+ OXVA ♫ DEATH IS HERE
 ───────────────────────────
 `));
 }
@@ -818,7 +818,7 @@ bot.start(async (ctx) => {
   const waStatus = sock && sock.user ? "✅ Terhubung" : "❌ Tidak Terhubung";
   const waktuRunPanel = runtime(process.uptime());
 
-  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 AVOID - XTIME 〕</b>
+  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 OXVA - DEATH 〕</b>
 OXVA - DEATH ʜᴀs ᴀʀʀɪᴠᴇᴅ. ᴇᴠᴇʀʏᴏɴᴇ, ᴋɴᴇᴇʟ ʙᴇғᴏʀᴇ ʜɪᴍ ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.
 ━━━━━━━━━━━━━━━━━━━━━━
 ┋<tg-emoji emoji-id="4956420859771225351">👑</tg-emoji> ᴅᴇᴠᴇʟᴏᴘᴇʀ : @AsepzBoys 
@@ -856,7 +856,7 @@ OXVA - DEATH ʜᴀs ᴀʀʀɪᴠᴇᴅ. ᴇᴠᴇʀʏᴏɴᴇ, ᴋɴᴇᴇʟ ʙ�
     [
       {
         text: "CHANEL",
-        url: "https://t.me/scamibulu",
+        url: "https://t.me/Rpdzz3",
         style: 'success',
       },
     ]
@@ -886,7 +886,7 @@ bot.action("sudah_join", async (ctx) => {
   const waStatus = sock && sock.user ? "✅ Terhubung" : "❌ Tidak Terhubung";
   const waktuRunPanel = runtime(process.uptime());
 
-  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 AVOID - XTIME 〕</b>
+  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 OXVA - DEATH 〕</b>
 OXVA - DEATH ʜᴀs ᴀʀʀɪᴠᴇᴅ. ᴇᴠᴇʀʏᴏɴᴇ, ᴋɴᴇᴇʟ ʙᴇғᴏʀᴇ ʜɪᴍ ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.
 ━━━━━━━━━━━━━━━━━━━━━━
 ┋<tg-emoji emoji-id="4956420859771225351">👑</tg-emoji> ᴅᴇᴠᴇʟᴏᴘᴇʀ : @AsepzBoys 
@@ -937,7 +937,7 @@ bot.action("owner_menu", async (ctx) => {
       : "❌ Tidak Terhubung";
         
       const mainMenuMessage = `
-<blockquote><strong>Oxva Death</strong></blockquote>
+<blockquote><strong>OXVA DEATH</strong></blockquote>
 ↯ Developer  : @AsepzBoys
 ↯ Version    : Automation updated
 ↯ Platform   : Telegram
@@ -1033,7 +1033,7 @@ bot.action("bug_menu", async (ctx) => {
       : "❌ Tidak Terhubung";
       
   const mainMenuMessage = `
-<blockquote><strong>Oxva Death</strong></blockquote>
+<blockquote><strong>OXVA DEATH</strong></blockquote>
 ↯ Developer  : @AsepzBoys
 ↯ Version    : Automation updated
 ↯ Platform   : Telegram
@@ -1080,7 +1080,7 @@ bot.action("back", async (ctx) => {
   const waStatus = sock && sock.user ? "✅ Terhubung" : "❌ Tidak Terhubung";
   const waktuRunPanel = runtime(process.uptime());
       
-  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 AVOID - XTIME 〕</b>
+  const mainMenuMessage = `<blockquote> <tg-emoji emoji-id="4958472587123360612">🌸</tg-emoji> <b>〔 OXVA - DEATH 〕</b>
 OXVA - DEATH ʜᴀs ᴀʀʀɪᴠᴇᴅ. ᴇᴠᴇʀʏᴏɴᴇ, ᴋɴᴇᴇʟ ʙᴇғᴏʀᴇ ʜɪᴍ ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.
 ━━━━━━━━━━━━━━━━━━━━━━
 ┋<tg-emoji emoji-id="4956420859771225351">👑</tg-emoji> ᴅᴇᴠᴇʟᴏᴘᴇʀ : @AsepzBoys 
